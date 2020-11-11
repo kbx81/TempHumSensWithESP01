@@ -40,6 +40,10 @@ The BME280 is the most challenging part on this board -- the pads are on the
  or a reflow oven to solder this part to the board. The rest of the components are
  pretty easy to work with.
 
+Note that `R7` is optional; you can use it as a pull-up resistor in the event that
+ you'd like to connect a DHTxx module to the RX/GPIO3 line on the ESP-01. Why?
+ Because more sensors...duh...
+
  ## Legal stuff and License
 
 The circuit schematics and PCB found here are licensed under the
