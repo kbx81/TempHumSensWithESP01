@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TempHumSensWithESP01)(type Legacy)(uri ${KIPRJMOD}/project_components/TempHumSensWithESP01.lib)(options "")(descr ""))
+)

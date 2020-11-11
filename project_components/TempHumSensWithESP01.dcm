@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SGP30
+D Indoor Air Quality Sensor for TVOC and CO2eq Measurements
+K CO2eq sensor  volatile organic comounds VOC TVOC I2C
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9_Gas_Sensors/Datasheets/Sensirion_Gas_Sensors_SGP30_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
