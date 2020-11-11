@@ -16,6 +16,16 @@ I needed a sensor board to monitor the humidity in my filament storage box.
  allows for some redundancy -- they, in a sense, verify each other to help
  increase confidence in the readings/data they provide.
 
+The board itself is sized to align with extra mounting holes that seem to be
+ in the Prusa MK3 frame. With the help of the [spacer](BME280+SHTC3BoardMountForPrusaMK3)
+ I drew up, it should be possible to mount it directly to the printer's frame
+ with just two M3 screws from your "spare parts" baggy. I've done this to monitor
+ the temperature inside of the LACK enclosure I built for my printer with the help
+ of [Home Assistant](https://www.home-assistant.io), [ESPHome](https://esphome.io)
+ and [Grafana](https://grafana.com). This board can be powered from a spare 5-volt
+ header that's near the top of the MK3's RAMbo board (the cable is visible in the
+ pictures I've placed into the [images](images/) directory).
+
 ## How?
 
 Please see the BoM [here](TempHumSensWithESP01.bom.csv) or
