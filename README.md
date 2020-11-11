@@ -17,7 +17,7 @@ I needed a sensor board to monitor the humidity in my filament storage box.
  increase confidence in the readings/data they provide.
 
 The board itself is sized to align with extra mounting holes that seem to be
- in the Prusa MK3 frame. With the help of the [spacer](BME280+SHTC3BoardMountForPrusaMK3)
+ in the Prusa MK3 frame. With the help of the [spacer](BME280+SHTC3BoardMountForPrusaMK3.stl)
  I drew up, it should be possible to mount it directly to the printer's frame
  with just two M3 screws from your "spare parts" baggy. I've done this to monitor
  the temperature inside of the LACK enclosure I built for my printer with the help
